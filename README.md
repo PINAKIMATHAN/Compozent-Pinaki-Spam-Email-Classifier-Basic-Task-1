@@ -1,2 +1,4 @@
 # Compozent-Pinaki-Spam-Email-Classifier-Basic-Task-1
 Compozent-Pinaki-Spam-Email-Classifier-Basic-Task-1
+
+During my ML/AI internship, I had the privilege of developing a Spam Email Classifier, a project that not only honed my technical skills but also ignited my passion for leveraging artificial intelligence to solve real-world problems. Through meticulous data preprocessing, feature engineering, and model selection, I crafted an efficient system capable of accurately discerning spam emails from legitimate ones. This experience not only deepened my understanding of machine learning algorithms but also instilled in me a profound appreciation for the power of data-driven decision-making. As an intern, this project empowered me to contribute meaningfully to the field while nurturing a curiosity that continues to drive my pursuit of excellence in machine learning and artificial intelligence as per the task of Compozent i.e., ML & AI ----BASIC TASK-1.
